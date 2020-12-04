@@ -6,8 +6,8 @@ print('\n')
 
 
 #to fetch a random number from the module
-import rand
-print(rand.randno())
+import rand #rand is a module
+print(rand.randno()) #randno is function in rand to fetch the random number
 print('\n')
 
 
